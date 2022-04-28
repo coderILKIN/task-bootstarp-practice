@@ -1,0 +1,29 @@
+.container .row .col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.container .row {
+  padding: 100px 0px;
+}
+
+.container .card {
+  height: 250px;
+  border: none;
+}
+
+.container .card .icon {
+  height: 90px;
+}
+
+.container .card .icon {
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+}
+
+.container .card .title {
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */

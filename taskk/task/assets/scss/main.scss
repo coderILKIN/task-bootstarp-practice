@@ -1,0 +1,55 @@
+
+.container{
+    .row{
+        .col{
+            display: flex;
+        }
+    }
+}
+
+.container{
+    .row{
+        padding: 100px 0px;
+    }
+}
+
+.container{
+    .card{
+        height: 250px;
+        border: none;
+        .icon{
+            height: 90px;
+        }
+    }
+}
+
+.container{
+    .card{
+        
+        .icon{
+            text-align: center;
+            font-size: 40px;
+            color: blue;
+            
+        }
+    }
+}
+
+.container{
+    .card{
+        
+        .title{
+            text-align: center;
+        }
+    }
+}
+
+
+// @media screen and (max-width: 992px) {
+//     body {
+//       img{
+//           display: flex;
+//           justify-content: space-evenly;
+//       }
+//     }
+//   }
